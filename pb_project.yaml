@@ -32,5 +32,5 @@ id_types:
         regex: ".+@.+"
       - type: exclude
         value: "test@company.com"
-# python_requirements:
-#   - profiles-pycorelib==0.14.*
+python_requirements:
+  - profiles-pycorelib==0.14.0-alpha.3
