@@ -33,5 +33,5 @@ id_types:
       - type: exclude
         value: "test@company.com"
 python_requirements:
-  - profiles-rudderstack==0.14.0rc3
-  # - profiles-pycorelib==0.14.0.alpha.2
+  # - profiles-rudderstack==0.14.0rc3
+  - profiles-pycorelib==0.14.0.alpha.2
